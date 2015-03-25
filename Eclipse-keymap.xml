@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="Eclipse-keymap" parent="Eclipse">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="control Y" />
     <keyboard-shortcut first-keystroke="shift control Z" />
